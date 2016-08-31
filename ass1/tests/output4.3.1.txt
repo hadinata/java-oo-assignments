@@ -1,0 +1,10 @@
+Reservation 1 DK Aarhus
+Reservation 2 DK Copenhagen
+Reservation 3 DK Billund
+Reservation 4 DK Skagen
+Reservation 5 DK Alborg
+DK Billund Aug 11 21
+DK Skagen Aug 9 50
+DK Alborg Jan 1 366
+DK Aarhus Jul 19 30
+DK Copenhagen Jul 17 26

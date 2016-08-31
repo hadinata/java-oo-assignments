@@ -1,0 +1,38 @@
+Venue AU Sydney large
+Venue AU Melbourne large
+Venue AU Adelaide medium
+Venue AU Hobart small
+#
+Venue ID Jakarta large
+Venue ID Surabaya large
+Venue ID Denpasar medium
+Venue ID Medan medium
+#
+Venue IT Trieste small
+#
+Venue NO Oslo medium
+#
+Venue NZ Rotorua small
+#
+Venue UK London large
+Venue UK Glasgow medium
+Venue UK Bristol small
+Venue UK Cambridge small
+#
+Venue NL Utrecht medium
+Venue NL Almere small
+Venue NL Zwolle small
+
+Request 1 Feb 23 Apr 12 1 small 2 large
+Print AU
+Request 2 Apr 12 Apr 12 1 small 1 medium 1 large
+Request 3 Apr 12 Apr 12 1 small 1 medium
+Request 4 Apr 12 Sep 12 1 small 1 medium
+Request 5 Feb 29 Apr 10 1 small 2 large
+Request 6 Mar 6 Apr 24 1 small 2 large
+Request 7 Feb 3 Mar 13 1 small 2 large
+Change 1 Feb 29 Apr 10 1 small 2 large
+Change 1 Mar 6 Apr 24 1 small 2 large
+Change 1 Feb 3 Mar 13 1 small 2 large
+Change 1 Jan 28 Feb 3 1 small 2 large
+Print AU

@@ -1,0 +1,19 @@
+Reservation 1 AU Sydney Melbourne Hobart
+AU Sydney Feb 23 50
+AU Melbourne Feb 23 50
+AU Adelaide
+AU Hobart Feb 23 50
+Reservation 2 UK London Glasgow Bristol
+Reservation 3 NL Utrecht Almere
+Request rejected
+Request rejected
+Request rejected
+Request rejected
+Change 1 AU Sydney Melbourne Hobart
+Change 1 AU Sydney Melbourne Hobart
+Change 1 AU Sydney Melbourne Hobart
+Change 1 AU Sydney Melbourne Hobart
+AU Sydney Jan 28 7
+AU Melbourne Jan 28 7
+AU Adelaide
+AU Hobart Jan 28 7
