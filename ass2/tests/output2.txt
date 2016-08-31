@@ -1,0 +1,9 @@
+35 nodes expanded
+cost = 1380
+Trip London to Bruges
+Trip Bruges to London
+Trip London to Amsterdam
+Trip Amsterdam to London
+Trip London to Copenhagen
+Trip Copenhagen to London
+Trip London to Madrid

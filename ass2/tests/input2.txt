@@ -1,0 +1,19 @@
+Transfer 70 London 
+Transfer 30 Amsterdam
+Transfer 50 Copenhagen
+Transfer 20 Madrid
+Transfer 50 Bruges
+Time 100 London Amsterdam
+Time 140 London Copenhagen
+Time 320 London Madrid
+Time 120 London Bruges
+Time 100 Amsterdam Copenhagen
+Time 250 Amsterdam Madrid
+Time 60 Amsterdam Bruges
+Time 330 Copenhagen Madrid
+Time 200 Copenhagen Bruges
+Time 200 Madrid Bruges
+Trip London Copenhagen
+Trip London Amsterdam
+Trip London Madrid
+Trip London Bruges
